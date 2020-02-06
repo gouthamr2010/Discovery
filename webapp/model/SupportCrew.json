@@ -1,0 +1,105 @@
+{
+	"details": [{
+		"teamType": "Command Crew",
+		"supportcrew": [{
+			"name": "Martin Berner",
+			"title": "Head of Platform Experience"
+		}, {
+			"name": "Sachit Aggarwal",
+			"title": "Chief Product Owner"
+		}, {
+			"name": "Nis Boy Naeve",
+			"title": "Adoption Enablement Head"
+		}, {
+			"name": "Manish Jayanth",
+			"title": "Development Manager"
+		}, {
+			"name": "Oliver Kieselbach",
+			"title": "Integration Lead"
+		}, {
+			"name": "Vasu Kesiraju",
+			"title": "Product Owner"
+		}]
+	}, {
+		"teamType": "Engineering Crew",
+		"supportcrew": [{
+			"name": "Nivedita Ganjoo",
+			"title": "User Experience"
+		}, {
+			"name": "Anuj Mehta",
+			"title": "Development"
+		}, {
+			"name": "Shashank Kumar",
+			"title": "Development"
+		}, {
+			"name": "Ajaroddin Havaldar",
+			"title": "Development"
+		}, {
+			"name": "Surya Venkatesan",
+			"title": "Development"
+		}, {
+			"name": "Vahe Gevorgyan",
+			"title": "Development"
+		}]
+	}, {
+		"teamType": "Enablement Crew",
+		"supportcrew": [{
+			"name": "Gaurav Dey",
+			"title": "Mission Coach"
+		}, {
+			"name": "Oliver Stiefbold",
+			"title": "Mission Coach"
+		}, {
+			"name": "Andreas Hirche",
+			"title": "Mission Coach"
+		}, {
+			"name": "Ilian Alekov",
+			"title": "Mission Coach"
+		}, {
+			"name": "Ingo Deck",
+			"title": "Mission Coach"
+		}, {
+			"name": "Jens Koster",
+			"title": "Mission Coach"
+		}, {
+			"name": "Bettina Mussgnug",
+			"title": "Missions Coach"
+		}, {
+			"name": "Cecily Sorenson",
+			"title": "Mission Coach"
+		}]
+	}, {
+		"teamType": "Backing Crew",
+		"supportcrew": [{
+			"name": "Michael Bain",
+			"title": "Customet Engagement Lead"
+		}, {
+			"name": "Melissa Corfield",
+			"title": "Go-to-Market Lead"
+		}, {
+			"name": "Dan Lahl",
+			"title": "Marketing Lead"
+		}, {
+			"name": "Emily Mui",
+			"title": "Launch Expert"
+		}, {
+			"name": "Tsvetan Stoyanov",
+			"title": "R&D Extension Expert"
+		}, {
+			"name": "Lakshminarayanan B",
+			"title": "Bluestone CPO"
+		}, {
+			"name": "Manohar Sreekanth",
+			"title": "Lifecycle Mgmt CPO"
+		}, {
+			"name": "Yasir Noman",
+			"title": "Enterprise Support Advisory"
+		}, {
+			"name": "Amit Lodhe",
+			"title": "SAP Preferred Success"
+		}, {
+			"name": "Carsten Boennen",
+			"title": "CP Website Lead"
+		}]
+	}]
+}

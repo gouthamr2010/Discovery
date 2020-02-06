@@ -1,0 +1,34 @@
+<mvc:View controllerName="com.sap.Discovery.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m"
+	xmlns:l="sap.ui.layout" xmlns:ct="com.sap.Discovery.customControl" xmlns:f="sap.f">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}" showHeader="false">
+					<content>
+						<l:VerticalLayout content="{Crews>/details}" width="100%">
+							<l:content>
+								<VBox>
+									<Title text="{Crews>teamType}" class="leftMargin"/>
+									<l:Grid content="{Crews>supportcrew}" containerQuery="true" defaultIndent="XL0 L0 M0 S0" defaultSpan="XL2 L2 M3 S12" vSpacing="2"
+										position="Center" width="90%" hSpacing="0">
+										<l:content>
+											<VBox alignItems="Stretch" justifyContent="Start">
+												<items>
+													<FlexBox class="innerVBox" alignItems="Center" justifyContent="Center" alignContent="Stretch" direction="Column">
+														<f:Avatar displaySize="L" backgroundColor="Accent1"/>
+														<Text text="{Crews>name}"></Text>
+														<Label text="{Crews>title}"></Label>
+													</FlexBox>
+												</items>
+											</VBox>
+										</l:content>
+									</l:Grid>
+								</VBox>
+							</l:content>
+						</l:VerticalLayout>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>

@@ -1,0 +1,12 @@
+/* Enter your custom styles here */
+
+.innerVBox {
+    position: relative;
+    top: 20px;
+    border: 2px solid rgba(63, 80, 96, 0.15);
+}
+
+.leftMargin {
+	margin-left: 60px;
+}
+
